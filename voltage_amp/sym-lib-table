@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name tonys_lib)(type Legacy)(uri /home/kuczewski/ESG/xbpm_revB/voltage_amp/tonys_lib.lib)(options "")(descr ""))
+)

@@ -1,0 +1,66 @@
+ERC report (Thu 07 May 2020 03:33:39 PM EDT, Encoding UTF8 )
+
+***** Sheet /
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(66.04 mm, 45.72 mm): Pin 6 (Power output) of component U1 is connected to 
+    @(68.58 mm, 191.77 mm): pin 6 (Power output) of component U2 (net 6).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(68.58 mm, 191.77 mm): Pin 6 (Power output) of component U2 is connected to 
+    @(318.77 mm, 54.61 mm): pin 6 (Power output) of component U10 (net 6).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(318.77 mm, 54.61 mm): Pin 6 (Power output) of component U10 is connected to 
+    @(318.77 mm, 200.66 mm): pin 6 (Power output) of component U11 (net 6).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(370.84 mm, 72.39 mm): Pin 4 (Power input) of component U12 is not driven (Net 7).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(372.11 mm, 119.38 mm): Pin 1 (Power input) of component #PWR0185 is not driven (Net 9).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(307.34 mm, 386.08 mm): Pin 94 (Passive) of component P1 is not driven (Net 25).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(481.33 mm, 236.22 mm): Pin 2 (Power input) of component U17 is not driven (Net 30).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(252.73 mm, 92.71 mm): Pin 14 (Power input) of component U8 is not driven (Net 39).
+ErrType(8): Global label not connected to any other global label
+    @(274.32 mm, 264.16 mm): Global label VCC1_8 is not connected to any other global label.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(307.34 mm, 360.68 mm): Pin 74 (Passive) of component P1 is not driven (Net 44).
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(307.34 mm, 393.70 mm): Pin 100 (Passive) of component P1 is unconnected.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(505.46 mm, 101.60 mm): Pin 14 (Power input) of component U16 is not driven (Net 47).
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(307.34 mm, 375.92 mm): Pin 86 (Passive) of component P1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(287.02 mm, 375.92 mm): Pin 85 (Passive) of component P1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(307.34 mm, 373.38 mm): Pin 84 (Passive) of component P1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(287.02 mm, 373.38 mm): Pin 83 (Passive) of component P1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(307.34 mm, 368.30 mm): Pin 80 (Passive) of component P1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(307.34 mm, 365.76 mm): Pin 78 (Passive) of component P1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(307.34 mm, 391.16 mm): Pin 98 (Passive) of component P1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(307.34 mm, 314.96 mm): Pin 38 (Passive) of component P1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(307.34 mm, 299.72 mm): Pin 26 (Passive) of component P1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(307.34 mm, 297.18 mm): Pin 24 (Passive) of component P1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(307.34 mm, 342.90 mm): Pin 60 (Passive) of component P1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(307.34 mm, 340.36 mm): Pin 58 (Passive) of component P1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(287.02 mm, 325.12 mm): Pin 45 (Passive) of component P1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(287.02 mm, 322.58 mm): Pin 43 (Passive) of component P1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(307.34 mm, 317.50 mm): Pin 40 (Passive) of component P1 is unconnected.
+ErrType(8): Global label not connected to any other global label
+    @(317.50 mm, 266.70 mm): Global label N5V is not connected to any other global label.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(67.31 mm, 356.87 mm): Pin 4 (Power input) of component U3 is not driven (Net 68).
+
+ ** ERC messages: 29  Errors 0  Warnings 29
